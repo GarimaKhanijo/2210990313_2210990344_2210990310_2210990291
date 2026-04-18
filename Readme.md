@@ -54,10 +54,10 @@ In this work, we tested multiple machine learning models under controlled noisy 
 │   ├── (datasets included)
 │
 ├── notebooks/
-│   ├── baseline.ipynb
-│   ├── noise_injection.ipynb
+│   ├── clean_baseline.ipynb
+│   ├── noise_engine.ipynb
 │   ├── cross_validation.ipynb
-│   └── analysis.ipynb
+│   └── analysis_plots.ipynb
 │
 ├── results/
 │   ├── tables/
