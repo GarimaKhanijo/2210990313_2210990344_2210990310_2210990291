@@ -1,5 +1,7 @@
 ## **Evaluating the Robustness of Lightweight Machine Learning Models to Label Noise**
 
+##### (Research paper)
+
 ### **Description**
 This project focuses on understanding how classical machine learning models behave when the training data contains incorrect labels (label noise). In real-world datasets, labels are not always perfect due to human errors, ambiguity, or automated processes, so it becomes important to check how models handle such situations.
 
