@@ -143,8 +143,8 @@ literature/
 This includes detailed methodology, experiments, and discussion.
 
 ### **Authors**
-- Garima
-- Gurnoor Dhaliwal
-- Gagan Deep
-- Divesh Gupta
+- Garima - 2210990313
+- Gurnoor Dhaliwal - 2210990344
+- Gagan Deep - 2210990310
+- Divesh Gupta - 2210990241
 
