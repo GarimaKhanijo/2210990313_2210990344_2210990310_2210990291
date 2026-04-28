@@ -152,7 +152,10 @@ This includes detailed methodology, experiments, and discussion.
 
 - **Co-Author** :
      Dr. Shikha Tuteja
+     
      Associate Professor
+     
      Department of Computer Science and Engineering
+     
      Chitkara University, Punjab
 
