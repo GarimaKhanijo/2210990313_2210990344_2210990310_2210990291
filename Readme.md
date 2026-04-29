@@ -150,14 +150,14 @@ Downloaded datasets are also already included inside the data/ folder for conven
 
 Overall, the results show that good performance on clean data does not always mean the model is robust in real-world noisy conditions.
 
-### **Literature**
+### **Documents**
 
 The complete research paper for this project is available in:
 
 ```console
-literature/
+documents/
 ```
-This includes detailed methodology, experiments, and discussion.
+This includes detailed methodology, experiments, and discussion and results.
 
 
 

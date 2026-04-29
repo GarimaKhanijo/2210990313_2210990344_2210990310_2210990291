@@ -30,7 +30,7 @@ def add_asymmetric_noise(y, noise_rate, random_state=42):
     
     noise_rate: fraction of class 1 samples to flip.
     """
-
+    
     np.random.seed(random_state)
     y_noisy = y.copy()
 
