@@ -1,7 +1,19 @@
-## **Evaluating the Robustness of Lightweight Machine Learning Models to Label Noise**
+## **Project Title - Evaluating the Robustness of Lightweight Machine Learning Models to Label Noise**
 
-##### (Research paper)
+##### Type - Research paper
 
+### **Authors**
+- Garima - 2210990313
+- Gurnoor Dhaliwal - 2210990344
+- Gagan Deep - 2210990310
+- Divesh Gupta - 2210990241
+
+- ### **Co-Author** :
+     Dr. Shikha Tuteja
+     Associate Professor
+     Department of Computer Science and Engineering
+     Chitkara University, Punjab
+  
 ### **Description**
 This project focuses on understanding how classical machine learning models behave when the training data contains incorrect labels (label noise). In real-world datasets, labels are not always perfect due to human errors, ambiguity, or automated processes, so it becomes important to check how models handle such situations.
 
@@ -144,18 +156,5 @@ literature/
 ```
 This includes detailed methodology, experiments, and discussion.
 
-### **Authors**
-- Garima - 2210990313
-- Gurnoor Dhaliwal - 2210990344
-- Gagan Deep - 2210990310
-- Divesh Gupta - 2210990241
 
-- ### **Co-Author** :
-     Dr. Shikha Tuteja
-     
-     Associate Professor
-     
-     Department of Computer Science and Engineering
-     
-     Chitkara University, Punjab
 
